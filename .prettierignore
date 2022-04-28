@@ -1,0 +1,5 @@
+**/build/**
+**/package-lock.json
+**/public/**
+**/schema.json
+**/tailwind.css

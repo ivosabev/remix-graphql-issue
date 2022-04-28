@@ -1,0 +1,10 @@
+node_modules
+coop.sql*
+
+*.log
+/.cache
+/build
+/public/build
+/server/build*
+
+.env
